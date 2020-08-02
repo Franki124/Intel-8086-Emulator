@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\bin\Debug\Intel 8086 Emulator.exe.config
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\bin\Debug\Intel 8086 Emulator.exe
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\bin\Debug\Intel 8086 Emulator.pdb
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\obj\Debug\Intel 8086 Emulator.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\obj\Debug\Intel 8086 Emulator.exe
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\obj\Debug\Intel 8086 Emulator.pdb
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\bin\Debug\Intel 8086 Emulator.exe.manifest
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\bin\Debug\Intel 8086 Emulator.application
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\obj\Debug\Intel 8086 Emulator.exe.manifest
+C:\Users\PC\source\repos\Intel 8086 Emulator\Intel 8086 Emulator\obj\Debug\Intel 8086 Emulator.application
